@@ -15,9 +15,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jasper-code3713&show_icons=true&custom_title=Jasper%27s%20GitHub%20Stats&bg_color=ffffff&title_color=FF5779&text_color=24292f&icon_color=7c3aed&hide_border=true&locale=en&rank_icon=github" alt="GitHub stats" />
-</p>
+<img height="220" src="https://github-readme-stats.vercel.app/api?username=Jasper-code3713&show_icons=true&custom_title=Jasper%27s%20GitHub%20Stats&bg_color=ffffff&title_color=FF5779&text_color=24292f&icon_color=7c3aed&hide_border=true&locale=en&rank_icon=github&card_width=480" alt="GitHub stats" />
 
 <!-- 公开一个有代码的仓库后再启用语言卡；私有仓库对公共实例不可见，只会显示 No language data
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasper-code3713&layout=compact&bg_color=ffffff&title_color=FF5779&text_color=24292f&icon_color=7c3aed&hide_border=true&locale=en&langs_count=6" alt="Top languages" />
