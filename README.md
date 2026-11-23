@@ -16,9 +16,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jasper-code3713&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FF5779&text_color=c9d1d9&icon_color=b392f0&hide_border=true&locale=cn&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasper-code3713&layout=compact&bg_color=0d1117&title_color=FF5779&text_color=c9d1d9&icon_color=b392f0&hide_border=true&locale=cn&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jasper-code3713&show_icons=true&hide=commits,prs,issues&custom_title=Jasper%20%C2%B7%20GitHub%20Stats&bg_color=0d1117&title_color=FF5779&text_color=c9d1d9&icon_color=b392f0&hide_border=true&locale=cn&rank_icon=github" alt="GitHub stats" />
 </p>
+
+<!-- 公开一个有代码的仓库后再启用语言卡；私有仓库对公共实例不可见，只会显示“没有语言数据”
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasper-code3713&layout=compact&bg_color=0d1117&title_color=FF5779&text_color=c9d1d9&icon_color=b392f0&hide_border=true&locale=cn&langs_count=6" alt="Top languages" />
+-->
 
 ## 🧩 Featured Projects
 
