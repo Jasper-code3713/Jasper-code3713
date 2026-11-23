@@ -21,6 +21,16 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasper-code3713&layout=compact&bg_color=ffffff&title_color=FF5779&text_color=24292f&icon_color=7c3aed&hide_border=true&locale=en&langs_count=6" alt="Top languages" />
 -->
 
+## ⏱️ This Week I Spent My Time On
+
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
 ## 🧩 Featured Projects
 
 | 项目 | 说明 | 技术 |
@@ -62,3 +72,9 @@
 <sub>Write code. Break things. Write it down.</sub>
 
 </div>
+
+## ☕ Buy Me a Coffee
+
+If you like what I do, maybe consider buying me a coffee 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/jasper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
