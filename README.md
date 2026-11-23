@@ -8,10 +8,10 @@
 
 ## 🔭 Focus
 
-- **底层基础**：用 C17 手写常用数据结构 —— 动态数组、链表、栈队列、哈希表、树、堆；重点在内存管理和独立测试
-- **Linux 与工具链**：WSL2 日常、bash 脚本、Makefile、git 工作流，习惯先看清楚再动手
-- **Web 前端**：零依赖的静态页面与像素小游戏，不装框架，直接跑在浏览器里
-- **AI 工具实践**：把 LLM 接进日常流程 —— 文档处理、自动化、创意短片
+- **LeetCode Algorithm Practice**：Data Structures and Algorithms Practice
+- **Autonomous Penetration Testing Agent**：Establish Autonomous Offensive Security Agent
+- **Routine Penetration Testing**：Ongoing Security Testing and Continuous Security Assessment
+- **Agent Application**：etc.
 
 ## 📊 GitHub Stats
 
@@ -58,7 +58,7 @@ No activity tracked
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,nodejs,docker,kali,php,go,github&perline=8" alt="Tech stack" />
 </p>
 
-**日常**：WSL Ubuntu · VS Code / CTF Web & Misc　**在学**：操作系统 · 密码学 · CTF  
+**日常**：WSL Ubuntu · VS Code · CTF Web & Misc　**在学**：OS · Crypto · CTF  
 
 ## 🐍 Contributions
 
@@ -75,6 +75,6 @@ No activity tracked
 
 ## ☕ Buy Me a Coffee
 
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
+If you like what I do, maybe consider buying me a coffee.  👉👈
 
 <a href="https://www.buymeacoffee.com/jasper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
