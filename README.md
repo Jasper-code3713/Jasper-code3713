@@ -26,10 +26,10 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,html,css,js&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=c++,python,bash,linux,git,nodejs,docker,kali,php,npm,nodejs,go,gitlab,github&perline=8" alt="Tech stack" />
 </p>
 
-**日常**：WSL2 · VS Code / Vim · Makefile　**在学**：数据结构 · 操作系统 · 密码学 · CTF
+**日常**：WSL ubuntu · VS Code / CTF Web & Misc　**在学**：操作系统 · 密码学 
 
 ## 🐍 Contributions
 
