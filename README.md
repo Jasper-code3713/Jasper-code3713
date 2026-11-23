@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=680&lines=Security+Undergrad+at+ZJU;C+%C2%B7+Linux+%C2%B7+Build+it+from+scratch;Small+web+things+that+open+and+just+run" alt="Typing SVG" />
 
-**Jasper** · 浙江大学信息安全在读。喜欢把底层的结构自己实现一遍，也喜欢做一打开就能玩的网页。
+**Jasper** · 浙江大学 信息安全本科在读
 
 </div>
 
