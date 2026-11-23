@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=680&lines=Security+Undergrad+at+ZJU;C+%C2%B7+Linux+%C2%B7+Build+it+from+scratch;Small+web+things+that+open+and+just+run" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Anta&size=25&duration=3000&pause=800&color=FF5779&center=true&vCenter=true&width=600&lines=InformationSecurity+Undergrad+at+ZJU;Major+in+Cybersecurity;researching+autonomous+penetration+for+Agents" alt="Typing SVG" />
 
 **Jasper** · 浙江大学 信息安全本科在读
 
