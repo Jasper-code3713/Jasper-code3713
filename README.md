@@ -13,6 +13,13 @@
 - **Web 前端**：零依赖的静态页面与像素小游戏，不装框架，直接跑在浏览器里
 - **AI 工具实践**：把 LLM 接进日常流程 —— 文档处理、自动化、创意短片
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jasper-code3713&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FF5779&text_color=c9d1d9&icon_color=b392f0&hide_border=true&locale=cn&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasper-code3713&layout=compact&bg_color=0d1117&title_color=FF5779&text_color=c9d1d9&icon_color=b392f0&hide_border=true&locale=cn&langs_count=6" alt="Top languages" />
+</p>
+
 ## 🧩 Featured Projects
 
 | 项目 | 说明 | 技术 |
@@ -23,13 +30,24 @@
 
 > 以上仓库正在整理公开，主页先占个位。
 
+<!-- 仓库公开后取消注释，这两张卡片要能匿名访问到仓库才会渲染
+## 📌 Top Repositories
+
+<a href="https://github.com/Jasper-code3713/ds-lab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jasper-code3713&repo=ds-lab&bg_color=0d1117&title_color=FF5779&text_color=c9d1d9&icon_color=b392f0&hide_border=true" alt="ds-lab" />
+</a>
+<a href="https://github.com/Jasper-code3713/qiushi-xiyou">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jasper-code3713&repo=qiushi-xiyou&bg_color=0d1117&title_color=FF5779&text_color=c9d1d9&icon_color=b392f0&hide_border=true" alt="qiushi-xiyou" />
+</a>
+-->
+
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,git,nodejs,docker,kali,php,npm,nodejs,go,gitlab,github&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,nodejs,docker,kali,php,go,github&perline=8" alt="Tech stack" />
 </p>
 
-**日常**：WSL ubuntu · VS Code / CTF Web & Misc　**在学**：操作系统 · 密码学 
+**日常**：WSL Ubuntu · VS Code / CTF Web & Misc　**在学**：操作系统 · 密码学 · CTF  
 
 ## 🐍 Contributions
 
