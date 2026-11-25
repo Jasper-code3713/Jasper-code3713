@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Anta&size=25&duration=3000&pause=800&color=FF5779&center=true&vCenter=true&width=600&lines=InformationSecurity+Undergrad+at+ZJU;Major+in+Cybersecurity;researching+autonomous+penetration+for+Agents" alt="Typing SVG" />
 
-**Jasper** · 浙江大学 信息安全本科在读
+**Jasper** · 浙江大学  🛡️信息安全本科在读
 
 </div>
 
@@ -13,7 +13,7 @@
 - **Routine Penetration Testing**：Ongoing Security Testing and Continuous Security Assessment
 - **Agent Application**：etc.
 
-## 📊 GitHub Stats
+## 🎉 GitHub Stats
 
 <img height="220" src="https://github-readme-stats.vercel.app/api?username=Jasper-code3713&show_icons=true&custom_title=Jasper%27s%20GitHub%20Stats&bg_color=ffffff&title_color=FF5779&text_color=24292f&icon_color=7c3aed&hide_border=true&locale=en&rank_icon=github&card_width=480" alt="GitHub stats" />
 
@@ -31,15 +31,14 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## 🧩 Featured Projects
+## 💾 Featured Projects
 
-| 项目 | 说明 | 技术 |
+| Project | Intro | Tech |
 | --- | --- | --- |
-| **ds-lab** | 从零手写数据结构练习库：契约式接口、每个结构独立单元测试、`-Wall -Wextra -Werror` 全开，进度按链表 → 栈队列 → 哈希 → BST → 堆 推进 | C17 · Make |
-| **qiushi-xiyou** | 浙大西迁主题的像素横版闯关小游戏，纯静态前端，零依赖、零素材文件 —— 像素美术和背景音乐全部在运行时用代码生成 | Canvas · ES Modules |
-| **organ-donation-video** | AI 生成的器官捐献公益短片：分镜剧本 → 提示词 → ComfyUI 出图 → 剪辑，一条可复现的制作流程 | ComfyUI · 分镜工程 |
+| **Qing** | An autonomous penetration testing agent built on the open-source Carin framework, developed for the Tencent TCH |  |
+| **Blank** |  |  |
 
-> 以上仓库正在整理公开，主页先占个位。
+> These repositories are currently being organized for public release. Stay tuned.
 
 <!-- 仓库公开后取消注释，这两张卡片要能匿名访问到仓库才会渲染
 ## 📌 Top Repositories
@@ -55,10 +54,10 @@ No activity tracked
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,nodejs,docker,kali,php,go,github&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,bash,linux,git,nodejs,docker,kali,php,go,github&perline=8" alt="Tech stack" />
 </p>
 
-**日常**：WSL Ubuntu · VS Code · CTF Web & Misc　**在学**：OS · Crypto · CTF  
+**日常**：WSL Ubuntu · VS Code · CTF Web & Misc　**在学**：OS · Crypto · Computer Network  
 
 ## 🐍 Contributions
 
@@ -75,6 +74,6 @@ No activity tracked
 
 ## ☕ Buy Me a Coffee
 
-If you like what I do, maybe consider buying me a coffee.  👉👈
+If you like what I do, maybe consider buying me a coffee.  🥰
 
 <a href="https://buymeacoffee.com/ccong78072b" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
